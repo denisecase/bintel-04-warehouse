@@ -1,0 +1,62 @@
+# ============================================================
+# CITATION.cff (How to cite this project)
+# ============================================================
+
+# REQ.UNIVERSAL: Professional open projects SHOULD include this file.
+# WHY: Support correct citation and attribution.
+# ALT: Internal or private repositories may omit citation metadata.
+# CUSTOM: Update author, repository, license, and keyword fields as needed.
+# USAGE: See https://citation-file-format.github.io/ for details.
+
+cff-version: "1.2.0"
+type: software
+
+title: "bintel-04-warehouse"
+version: "0.1.0"
+date-released: "2026-06-28"
+
+authors:
+  - family-names: Case
+    given-names: Denise M.
+    orcid: "https://orcid.org/0000-0001-6165-7389"
+    affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
+
+repository-code: "https://github.com/denisecase/bintel-04-warehouse"
+url: "https://github.com/denisecase/bintel-04-warehouse"
+license: MIT
+
+abstract: >
+  Business intelligence project.
+  Learn to design a star schema data warehouse,
+  create it in DuckDB,
+  and load prepared smart sales data using the ETVL process
+  with row count verification.
+
+keywords:
+  - business-intelligence
+  - data-warehouse
+  - star-schema
+  - etvl
+  - etl
+  - duckdb
+  - smart-sales
+  - dimensional-modeling
+  - analytical-database
+  - professional-python
+  - reproducible-workflows
+  - ci-cd
+  - github-actions
+  - software-quality
+  - professional-practice
+  - python
+  - pandas
+  - matplotlib
+  - seaborn
+  - git
+  - github
+  - open-source
+  - uv
+  - ruff
+  - zensical
+
+message: "If using this work, please cite it as described in this file."
